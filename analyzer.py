@@ -16,3 +16,4 @@ interest= input("What tech field interests you? ")
 print("You are interested in",interest)
 tech_fields= ["AI", "Cybersecurity", "Data Analytics", "Cloud"]
 print(tech_fields)
+print(tech_fields[0])
