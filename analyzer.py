@@ -10,3 +10,5 @@ if age>= 18:
   print("You are an Adult. ")
 else:    
   print("You are under 18. ")
+  
+print("Welcome to Gulf Tech Analysis,",name)
