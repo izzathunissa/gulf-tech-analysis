@@ -12,3 +12,5 @@ else:
   print("You are under 18. ")
   
 print("Welcome to Gulf Tech Analysis,",name)
+interest= input("What tech field interests you? ")
+print("You are interested in",interest)
