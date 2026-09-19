@@ -6,3 +6,5 @@ print(name)
 age= 20
 next_year_age= age+1
 print(next_year_age)
+if age>= 18:
+  print("You are an Adult. ")
