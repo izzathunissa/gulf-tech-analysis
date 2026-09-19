@@ -14,3 +14,5 @@ else:
 print("Welcome to Gulf Tech Analysis,",name)
 interest= input("What tech field interests you? ")
 print("You are interested in",interest)
+tech_fields= ["AI", "Cybersecurity", "Data Analytics", "Cloud"]
+print(tech_fields)
