@@ -19,4 +19,8 @@ print(tech_fields)
 print(tech_fields[0])
 for field in tech_fields:
   print(field)
-  print("Number of tech_fields:", len(tech_fields))
+  
+print("Number of tech_fields:",
+len(tech_fields))
+  
+tech_fields.append("DevOps")
